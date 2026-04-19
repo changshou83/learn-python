@@ -1,0 +1,9 @@
+.env
+.deps/
+.tmp/
+.uv-cache/
+.venv/
+.pytest_cache/
+pytest-cache-files-*/
+__pycache__/
+*.pyc

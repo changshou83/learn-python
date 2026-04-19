@@ -1,0 +1,11 @@
+.env
+.git
+.pytest_cache
+.venv
+.uv-cache
+.tmp
+.deps
+pytest-cache-files-*
+__pycache__
+*.pyc
+
